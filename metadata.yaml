@@ -1,0 +1,28 @@
+_repo: A-Civil-Servant-in-Burma_43075
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43075-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, Herbert Thirkell, Sir
+    alias: White, H. T. (Herbert Thirkell), Sir
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '42011'
+    url: http://www.gutenberg.org/2009/agents/42011
+description: ''
+gutenberg_issued: '2013-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43075'
+  lccn: '14002968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burma'
+- !lcc 'DS'
+title: A Civil Servant in Burma
+url: http://www.gutenberg.org/ebooks/43075
